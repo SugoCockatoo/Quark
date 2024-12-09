@@ -1,6 +1,4 @@
 # QUARK
-## Made by Sugo  
-
  ![Logo](https://github.com/SugoCockatoo/Quark/blob/main/Quark%20Large%20Logo.png)
 
 
@@ -70,3 +68,21 @@ The AI vision system, powered by YOLOv11, enables Quark to perform real-time obj
 
 **Conclusion:**
 Quark represents an advanced example of how AI-based object detection, machine learning models for movement, and interactive behavior modes can be implemented in a low-cost, embedded robotics system. Using YOLOv11 for object detection, coupled with a linear regression model for servo control, Quark can dynamically interact with its environment and users. Its efficient use of limited resources and real-time processing capabilities demonstrates the potential for running complex AI algorithms on microcontrollers, showcasing the future of robotics and AI-powered systems. 
+
+**License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
+
+Copyright (c) 2024 Sugo
+
+You are free to:
+- Share — copy and redistribute the material in any medium, format, or platform.
+- Adapt — remix, transform, and build upon the material.
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- NonCommercial — You may not use the material for commercial purposes.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Full details of the license can be found at:
+https://creativecommons.org/licenses/by-nc/4.0/
+
