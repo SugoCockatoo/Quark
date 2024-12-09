@@ -1,7 +1,7 @@
 QUARK ROBOT  
 Made by Sugo  
 
- ![Logo](Quark Large Logo.png)
+ ![Logo](https://github.com/SugoCockatoo/Quark/blob/main/Quark%20Large%20Logo.png)
 
 
 Project Overview: 
