@@ -1,5 +1,5 @@
-#QUARK
-##Made by Sugo  
+# QUARK
+## Made by Sugo  
 
  ![Logo](https://github.com/SugoCockatoo/Quark/blob/main/Quark%20Large%20Logo.png)
 
